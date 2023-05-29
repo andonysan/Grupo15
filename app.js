@@ -1,8 +1,8 @@
 /////requires/////////////////////////
 const { argv } = require('process')
-argv=require ('process').argv
-operacion = argv[2]
-numeroA=argv[3]
-numerB=argv[4]
+const argv=require ('process').argv
+let operacion = argv[2]
+let numeroA=argv[3]
+let numeroB=argv[4]
 ///////////////////////////////////////
 

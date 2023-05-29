@@ -1,6 +1,7 @@
-sumar=function(a,b){
-    return a+b};
+sumar = function (a, b) {
+  return a + b;
+};
 
-    module.exports={
-        sumar
-    }
+module.exports = {
+  sumar,
+};
